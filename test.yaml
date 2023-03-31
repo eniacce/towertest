@@ -4,3 +4,5 @@
   tasks:
     - name: bu ne
       command: echo "salla"
+    - name: salla
+      command: ls -al
