@@ -1,0 +1,6 @@
+---
+- name: deneme
+  hosts: server
+  tasks:
+    - name: bu ne
+      command: echo "salla"
